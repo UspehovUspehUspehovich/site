@@ -109,9 +109,6 @@ html, body {
     }
 }
 
-.header__burger {
-    display: none;
-}
 .header__menu {
     margin: 160px 0px 0px 0px;
 }
