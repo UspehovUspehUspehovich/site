@@ -4192,7 +4192,7 @@ html, body {
 }
 
 .bottom-content-item--social {
-    animation: social-move 1.8s ease-in-out infinite;
+    animation: social-move 2.6s ease-in-out infinite;
 
 }
 
@@ -4201,13 +4201,9 @@ html, body {
     0% {
         transform: rotate(0deg);
     }
-    25% {
-        transform: rotate(25deg);
-    }
     100% {
         transform: rotate(360deg);
     }
-
 }
 
 .bottom-content {
