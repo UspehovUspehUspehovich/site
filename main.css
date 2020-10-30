@@ -5371,6 +5371,12 @@ a {
     opacity: 100%;
 }
 
+@media (max-width: 768px) {
+    .type-btn:hover {
+        box-shadow: 0 0 8px #a80000;
+    }
+}
+
 .bottom-board {
     display: flex;
     justify-content: center;
